@@ -1,4 +1,4 @@
-# Intro-to-Paython
+# Intro-to-Python
 
 For implementing Several Models
 
