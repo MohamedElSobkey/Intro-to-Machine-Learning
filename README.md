@@ -19,6 +19,6 @@ For implementing Several Models
  15.Eception Handling\
 
 
-[My GitHub] 1. Learn Basics Concept of Python https://github.com/MohamedElSobkey/Intro-to-Machine-Learning/edit/main/README.md
+[My GitHub]: 1. Learn Basics Concept of Python 
 
 
