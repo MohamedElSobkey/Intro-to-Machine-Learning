@@ -29,3 +29,12 @@ For implementing Several Models
 *  Gained popularity because of its clear syntax and readability
 
 
+# Why Learn Python?
+
+Python’s syntax is very easy to understand. The lines of code required for a task is less compared to other languages. Let me give you an example – If I have to print “Welcome To Edureka!” all I have to type:
+
+print (“Welcome To Edureka!”)
+
+Let’s see, What experts have to say about Python:
+
+
