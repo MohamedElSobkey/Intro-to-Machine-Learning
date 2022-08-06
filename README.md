@@ -99,6 +99,24 @@ A developer working with an IDE starts with a model, which the IDE translates in
        *  Symbols that operate on data and produce results
 
 
-     
+#  5. Python Tokens: Keywords
+
+ *  Python keywords are special reserve keywords
+ *  Convey a special meaning to the compiler/interpreter
+ * Each keywords have a special meaning and a specific operation
+ *  Keywords CANNOT be used as variable
+
+# 6. Python Tokens: Identifiers
+  
+  *  Identifiers are the name to identify a variable, function, class or an object
+  *  RULES defined for naming an identifiers:
+                *   No special character except underscore (_) can be used as an identifier
+                *   Keywords should not be used as an identifiers
+                *   Python is case sensitive, i.e. Var and var are two different identifier
+                *   First character of an identifier can be character, underscore(_) but not digit.
+               
+          
+               
+       
 
 
