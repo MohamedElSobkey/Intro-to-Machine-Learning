@@ -37,4 +37,12 @@ print (“Welcome To Edureka!”)
 
 Let’s see, What experts have to say about Python:
 
-
+* Simple and Easy to learn
+* Free and open source
+* High Level Language
+* Support different programming paradigm
+      *  Object Oriented
+      * Procedure Oriented
+      *  Functional Oriented
+      *  Imperative Oriented
+* Portable      
