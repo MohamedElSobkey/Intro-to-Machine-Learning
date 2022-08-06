@@ -19,6 +19,6 @@ For implementing Several Models
  15.Eception Handling\
 
 
-[My GitHub]:* 1. Learn Basics Concept of Python* 
+# 1. Learn Basics Concept of Python
 
 
