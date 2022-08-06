@@ -16,7 +16,7 @@ For implementing Several Models
  12.Loops in Python\
  13.Functions\
  14.File Operations\
- 15.Eception Handling\
+ 15.Eception Handling
 
 
 # 1. Learn Basics Concept of Python
@@ -46,3 +46,59 @@ Let’s see, What experts have to say about Python:
       *  Functional Oriented
       *  Imperative Oriented
 * Portable      
+
+
+#  2. Downloading & Installation
+
+I will be installing Python in Windows 10 OS. You can try installing Python in Linux, Mac etc. If you face any issue mention it in the comments section.
+
+## Following are the steps to install Python
+
+*  Step1: 1. Go to www.python.org/downloads/
+*  Step2: Select the Operating System and also the version of Python. I am downloading 3.6.0 in my windows machine. Open the installer and click on “Run”.
+*  Step3: Click on “Install Now” and check on “Add Python 3.6 to PATH”.
+*  Step4: Start IDLE which is a Python GUI and start scripting.
+
+#  Python IDE (Integrated Development Environment):
+
+IDE typically provides code editor, compiler/ interpreter and debugger in one GUI (Graphical User Interface). It encapsulates the entire process of code creation, compilation and testing which increases the productivity of developers.
+
+A developer working with an IDE starts with a model, which the IDE translates into suitable code. The IDE then debugs and tests the model-driven code, with a high level of automation. Once the build is successful and properly tested, it can be deployed for further testing through the IDE or other tools outside of the IDE.
+
+
+#  3. Python Applications:
+
+*  Artificial Intelligence
+*  Data Science
+*  Desktop Application
+* Automation
+* Web Development
+* Data Wrangling, Exploration And Visualization
+
+# 4. Python Variables
+
+* A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing.
+* Variables are containers for storing data values. Unlike other programming languages, Python has no command for declaring a variable.
+
+#  Python Variable Name Rules
+
+   *   Must begin with a letter (a - z, A - B) or underscore (_)
+   *   Other characters can be letters, numbers or _Case Sensitive.
+   *   Can be any (reasonable) length.
+   *   There are some reserved words which you cannot use as a variable name because Python uses them for other things.
+
+
+#  Python Tokens
+   * Keyword
+       * Python keywords are special reserve keywords
+   * Identifiers
+       * Names that the programmer defines
+   *   Literals
+       *  Values classified by types: e.g., numbers, truth values, text
+  *    Operators 
+       *  Symbols that operate on data and produce results
+
+
+     
+
+
