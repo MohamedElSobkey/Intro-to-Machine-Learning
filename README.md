@@ -2,9 +2,9 @@
 For implementing Several Models
 
 # Table of Content
- 1.Learn Basics Concept of Python
- 2.Downloading & Installation
- 3.Python Applications
+ 1.Learn Basics Concept of Python \
+ 2.Downloading & Installation \
+ 3.Python Applications\
  4.Python Variables
  5.Python Keywords
  6.Python Identifiers
